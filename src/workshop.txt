@@ -43,3 +43,6 @@ Perhaps up to 50 is fine in the expanded state, but if it exceeds 40, it is safe
 [h1]Translations[/h1]
 If you want to add translation files of your language, please leave a comment in [url=https://steamcommunity.com/workshop/filedetails/discussion/2766834021/3191367619816832037/]Translation Thread[/url].
 Also, if there are any oddities in the English text of this mod, please leave the original text and any proposed revisions in the comments (or Translation Thread). I'm not good at English, so something might be wrong.
+
+[h1]Repository[/h1]
+[url=https://github.com/matori/pzmod-reorder-duplicates-by-condition]GitHub Repository[/url]
