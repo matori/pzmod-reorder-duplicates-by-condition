@@ -1,0 +1,6 @@
+UI_JP = {
+    UI_ReorderDuplicatesByCondition_CharacterSpeaks = "キャラクターの発言",
+    UI_ReorderDuplicatesByCondition_CharacterSpeaks_Tooltip = "対象のアイテムが既に順番通りになっている場合、キャラクターがメッセージを発します。",
+    UI_ReorderDuplicatesByCondition_BloodinessDirtiness = "血痕量と汚れ量での並べ替え",
+    UI_ReorderDuplicatesByCondition_BloodinessDirtiness_Tooltip = "武器と被服の血痕量、被服の汚れ量による並べ替えを可能にします。",
+}

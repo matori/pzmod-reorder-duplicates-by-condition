@@ -1,0 +1,6 @@
+UI_EN = {
+    UI_ReorderDuplicatesByCondition_CharacterSpeaks = "Character speaks",
+    UI_ReorderDuplicatesByCondition_CharacterSpeaks_Tooltip = "Your character will say message if items are already in order you want.",
+    UI_ReorderDuplicatesByCondition_BloodinessDirtiness = "Reordering by bloodiness and dirtyness",
+    UI_ReorderDuplicatesByCondition_BloodinessDirtiness_Tooltip = "You can reorder weapons and clothing by bloodiness, and can reorder clothing by dirtyness.",
+}

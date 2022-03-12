@@ -1,0 +1,28 @@
+ContextMenu_JP = {
+    -- by condition
+    ContextMenu_ReorderDuplicatesByCondition_ByCondition = "状態で並べ直す",
+    ContextMenu_ReorderDuplicatesByCondition_HighToLow1 = "高 → 低",
+    ContextMenu_ReorderDuplicatesByCondition_LowToHigh1 = "低 → 高",
+
+    -- by remaining
+    ContextMenu_ReorderDuplicatesByCondition_ByRemaining = "残量で並べ直す",
+    ContextMenu_ReorderDuplicatesByCondition_HighToLow2 = "多 → 少",
+    ContextMenu_ReorderDuplicatesByCondition_LowToHigh2 = "少 → 多",
+
+    -- by Hunger Reduction
+    -- high/low menus are same as condition
+    ContextMenu_ReorderDuplicatesByCondition_ByHungerReduction = "空腹解消度で並べ直す",
+
+    -- by Calories
+    -- high/low menus are same as condition
+    ContextMenu_ReorderDuplicatesByCondition_ByCalories = "カロリーで並べ直す",
+
+    -- by bloodiness
+    ContextMenu_ReorderDuplicatesByCondition_ByBloodiness = "血痕量で並べ直す",
+    ContextMenu_ReorderDuplicatesByCondition_HighToLow3 = "多 → 少",
+    ContextMenu_ReorderDuplicatesByCondition_LowToHigh3 = "少 → 多",
+
+    -- by Dirtiness
+    -- high/low menus are same as bloodiness
+    ContextMenu_ReorderDuplicatesByCondition_ByDirtiness = "汚れ量で並べ直す",
+}

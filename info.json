@@ -1,0 +1,13 @@
+{
+  "name": "Reorder Duplicates by Condition",
+  "workshop": {
+    "version": 1,
+    "id": 2766834021,
+    "tags": "Build 41;Interface;Items",
+    "visibility": "public"
+  },
+  "modInfo": {
+    "id": "ReorderDuplicatesByCondition",
+    "description": "Duplicates in a container or bag can be reordered by condition or remaining quantity."
+  }
+}

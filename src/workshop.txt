@@ -1,0 +1,45 @@
+Are there many duplicate items? Are you tired of managing too many survival knives?
+This mod allows duplicate items to be reordered by conditions.
+Player's character will reorder the items in vanilla way, so you will need some time.
+
+[h1]Features[/h1]
+You can reorder by:
+[list]
+[*]Condition of Weapon or Clothing items.
+[*]Remaining of Drainable items.
+[*]Hunger (as Hunger Reduction) of Food items.
+[*]Calories of Food items. (If your character doesn't have Nutritionist trait, you can only reorder packaged foods.)
+[*]Blood level (as Bloodiness) of Weapon or Clothing items. (Optional. Enabled by default)
+[*]Dirtyness of Clothing items. (Optional. Same option as Bloodiness)
+[/list]
+
+If selected items are already in order you want, your character will say message. (Optional. Enabled by default)
+
+Optional features can be changed by using [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2169435993]Mod Options[/url].
+
+[h1]Notice[/h1]
+This mod can be used in both expanded and collapsed duplicates.
+However, if the duplicates exceed 40, it is recommended to collapse them before. This is because expanded duplicates will only show up to about 50.
+
+Perhaps up to 50 is fine in the expanded state, but if it exceeds 40, it is safer to collapse.
+
+[h1]Limitations[/h1]
+[list]
+[*]Does not affect items in Main Inventory.
+[*]Not tested in MP.
+[/list]
+
+[h1]Future Plans[/h1]
+[list]
+[*]Bug fix. (If found.)
+[*]Support Freshness of Food items. (If can)
+[/list]
+
+[h1]Not Planed[/h1]
+[list]
+[*]Support reordering items in Main Inventory.
+[/list]
+
+[h1]Translations[/h1]
+If you want to add translation files of your language, please leave a comment in [url=https://steamcommunity.com/workshop/filedetails/discussion/2766834021/3191367619816832037/]Translation Thread[/url].
+Also, if there are any oddities in the English text of this mod, please leave the original text and any proposed revisions in the comments (or Translation Thread). I'm not good at English, so something might be wrong.

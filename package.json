@@ -1,0 +1,24 @@
+{
+  "name": "pzmod-reorder-duplicates-by-condition",
+  "private": true,
+  "description": "Project Zomboid Mod \"ReorderDuplicatesByCondition\"",
+  "version": "1.2.0",
+  "author": "matori<pnr.matori@gmail.com>",
+  "license": "MIT",
+  "type": "module",
+  "scripts": {
+    "build": "cross-env NODE_ENV=production npm run copy",
+    "dev": "cross-env NODE_ENV=development npm run copy && cross-env NODE_ENV=development npm run watch",
+    "copy": "node --experimental-modules scripts/build.js",
+    "watch": "node --experimental-modules scripts/watch.js"
+  },
+  "devDependencies": {
+    "cross-env": "^7.0.3",
+    "iconv-lite": "^0.6.3",
+    "node-watch": "^0.7.3",
+    "picomatch": "^2.3.1",
+    "prettier": "^2.5.1",
+    "recursive-copy": "^2.0.14",
+    "through2": "^4.0.2"
+  }
+}

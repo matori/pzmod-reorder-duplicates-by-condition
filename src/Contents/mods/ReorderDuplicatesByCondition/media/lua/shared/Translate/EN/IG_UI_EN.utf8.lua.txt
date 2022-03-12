@@ -1,0 +1,3 @@
+IGUI_EN = {
+    IGUI_ReorderDuplicatesByCondition_AlreadyInOrder = "...They are already in order I want.",
+}
