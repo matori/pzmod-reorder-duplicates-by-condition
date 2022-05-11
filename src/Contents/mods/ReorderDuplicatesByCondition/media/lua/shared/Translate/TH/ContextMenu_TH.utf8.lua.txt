@@ -1,0 +1,28 @@
+ContextMenu_TH = {
+    -- by condition
+    ContextMenu_ReorderDuplicatesByCondition_ByCondition = "จัดเรียงลำดับตามสภาพ",
+    ContextMenu_ReorderDuplicatesByCondition_HighToLow1 = "ดี → แย่",
+    ContextMenu_ReorderDuplicatesByCondition_LowToHigh1 = "แย่ → ดี",
+
+    -- by remaining
+    ContextMenu_ReorderDuplicatesByCondition_ByRemaining = "จัดเรียงลำดับตามปริมาณคงเหลือ",
+    ContextMenu_ReorderDuplicatesByCondition_HighToLow2 = "มาก → น้อย",
+    ContextMenu_ReorderDuplicatesByCondition_LowToHigh2 = "น้อย → มาก",
+
+    -- by Hunger Reduction
+    -- high/low menus are same as condition
+    ContextMenu_ReorderDuplicatesByCondition_ByHungerReduction = "จัดเรียงลำดับตามการลดความหิว",
+
+    -- by Calories
+    -- high/low menus are same as condition
+    ContextMenu_ReorderDuplicatesByCondition_ByCalories = "จัดเรียงลำดับตามปริมาณแคลอรี",
+
+    -- by bloodiness
+    ContextMenu_ReorderDuplicatesByCondition_ByBloodiness = "จัดเรียงลำดับตามคราบเลือด",
+    ContextMenu_ReorderDuplicatesByCondition_HighToLow3 = "มาก → น้อย",
+    ContextMenu_ReorderDuplicatesByCondition_LowToHigh3 = "น้อย → มาก",
+
+    -- by Dirtiness
+    -- high/low menus are same as bloodiness
+    ContextMenu_ReorderDuplicatesByCondition_ByDirtiness = "จัดเรียงลำดับตามความสกปรก",
+}

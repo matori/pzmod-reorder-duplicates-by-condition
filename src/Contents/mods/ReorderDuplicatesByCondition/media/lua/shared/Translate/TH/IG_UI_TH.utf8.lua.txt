@@ -1,0 +1,3 @@
+IGUI_TH = {
+    IGUI_ReorderDuplicatesByCondition_AlreadyInOrder = "...เรียงลำดับตามที่ต้องการอยู่แล้วนี่",
+}
