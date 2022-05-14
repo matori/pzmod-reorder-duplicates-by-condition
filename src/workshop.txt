@@ -26,18 +26,18 @@ Perhaps up to 50 is fine in the expanded state, but if it exceeds 40, it is safe
 [h1]Limitations[/h1]
 [list]
 [*]Does not affect items in Main Inventory.
-[*]Not tested in MP.
-[/list]
-
-[h1]Future Plans[/h1]
-[list]
-[*]Bug fix. (If found.)
-[*]Support Freshness of Food items. (If can)
 [/list]
 
 [h1]Not Planed[/h1]
 [list]
 [*]Support reordering items in Main Inventory.
+[/list]
+
+[h1]Language Supports[/h1]
+[list]
+[*]English
+[*]Japanese
+[*]Thai ([url=https://github.com/matori/pzmod-reorder-duplicates-by-condition/pull/2]Thanks: radiusgreenhill[/url])
 [/list]
 
 [h1]Translations[/h1]
