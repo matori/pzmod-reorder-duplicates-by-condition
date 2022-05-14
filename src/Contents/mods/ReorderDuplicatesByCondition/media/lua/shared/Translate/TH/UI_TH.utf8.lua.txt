@@ -1,0 +1,6 @@
+UI_TH = {
+    UI_ReorderDuplicatesByCondition_CharacterSpeaks = "ตัวละครพูดได้",
+    UI_ReorderDuplicatesByCondition_CharacterSpeaks_Tooltip = "ตัวละครของคุณจะพูดหากรายการไอเท็มอยู่ในลำดับที่คุณต้องการอยู่แล้ว",
+    UI_ReorderDuplicatesByCondition_BloodinessDirtiness = "จัดเรียงลำดับตามปริมาณคราบเลือดและความสกปรก",
+    UI_ReorderDuplicatesByCondition_BloodinessDirtiness_Tooltip = "คุณสามารถจัดเรียงลำดับอาวุธและเสื้อผ้าตามปริมาณคราบเลือด และสามารถจัดเรียงลำดับเสื้อผ้าตามความสกปรกได้",
+}
