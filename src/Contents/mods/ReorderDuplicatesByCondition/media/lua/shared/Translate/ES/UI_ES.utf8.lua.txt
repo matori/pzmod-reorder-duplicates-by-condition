@@ -1,0 +1,6 @@
+UI_ES = {
+    UI_ReorderDuplicatesByCondition_CharacterSpeaks = "El Personaje habla",
+    UI_ReorderDuplicatesByCondition_CharacterSpeaks_Tooltip = "Tu personaje dirá un mensaje si los objetos ya están en el orden que deseas.",
+    UI_ReorderDuplicatesByCondition_BloodinessDirtiness = "Reordenar por Sangriento y Suciedad",
+    UI_ReorderDuplicatesByCondition_BloodinessDirtiness_Tooltip = "Puedes reordenar armas y ropa por Sangriento, y ordenar la rota por Suciedad.",
+}

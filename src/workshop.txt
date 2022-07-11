@@ -38,6 +38,7 @@ Perhaps up to 50 is fine in the expanded state, but if it exceeds 40, it is safe
 [*]English
 [*]Japanese
 [*]Thai ([url=https://github.com/matori/pzmod-reorder-duplicates-by-condition/pull/2]Thanks: radiusgreenhill[/url])
+[*]Spanish ([url=https://steamcommunity.com/workshop/filedetails/discussion/2766834021/3191367619816832037/#c3415433928544791243]Thanks: HawK[/url])
 [/list]
 
 [h1]Translations[/h1]

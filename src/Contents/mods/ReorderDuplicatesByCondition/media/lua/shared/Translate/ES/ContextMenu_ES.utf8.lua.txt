@@ -1,0 +1,28 @@
+ContextMenu_ES = {
+    -- by condition
+    ContextMenu_ReorderDuplicatesByCondition_ByCondition = "Reordenar por Condición",
+    ContextMenu_ReorderDuplicatesByCondition_HighToLow1 = "Mayor a Menor",
+    ContextMenu_ReorderDuplicatesByCondition_LowToHigh1 = "Menor a Mayor",
+
+    -- by remaining
+    ContextMenu_ReorderDuplicatesByCondition_ByRemaining = "Reordenar por Restante",
+    ContextMenu_ReorderDuplicatesByCondition_HighToLow2 = "Mayor a Menor",
+    ContextMenu_ReorderDuplicatesByCondition_LowToHigh2 = "Menor a Mayor",
+
+    -- by Hunger Reduction
+    -- high/low menus are same as condition
+    ContextMenu_ReorderDuplicatesByCondition_ByHungerReduction = "Reordenar por Reducción del Hambre",
+
+    -- by Calories
+    -- high/low menus are same as condition
+    ContextMenu_ReorderDuplicatesByCondition_ByCalories = "Reordenar por Calorías",
+
+    -- by bloodiness
+    ContextMenu_ReorderDuplicatesByCondition_ByBloodiness = "Reordenar por Sangriento",
+    ContextMenu_ReorderDuplicatesByCondition_HighToLow3 = "Mayor a Menor",
+    ContextMenu_ReorderDuplicatesByCondition_LowToHigh3 = "Menor a Mayor",
+
+    -- by Dirtiness
+    -- high/low menus are same as bloodiness
+    ContextMenu_ReorderDuplicatesByCondition_ByDirtiness = "Reordenar por Suciedad",
+}
