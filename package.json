@@ -2,7 +2,7 @@
   "name": "pzmod-reorder-duplicates-by-condition",
   "private": true,
   "description": "Project Zomboid Mod \"ReorderDuplicatesByCondition\"",
-  "version": "1.2.2",
+  "version": "1.2.3",
   "author": "matori<pnr.matori@gmail.com>",
   "license": "MIT",
   "type": "module",

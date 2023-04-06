@@ -1,0 +1,6 @@
+UI_PTBR = {
+    UI_ReorderDuplicatesByCondition_CharacterSpeaks = "Fala do Personagem",
+    UI_ReorderDuplicatesByCondition_CharacterSpeaks_Tooltip = "Seu personagem dirá mensagem se os itens já estiverem em ordem.",
+    UI_ReorderDuplicatesByCondition_BloodinessDirtiness = "Reordenar por Sujeira e Ensanguentado",
+    UI_ReorderDuplicatesByCondition_BloodinessDirtiness_Tooltip = "Pode reordenar entre Sujeira e Ensanguentado separadamente.",
+}
