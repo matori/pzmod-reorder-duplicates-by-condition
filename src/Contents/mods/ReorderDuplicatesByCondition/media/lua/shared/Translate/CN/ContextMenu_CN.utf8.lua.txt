@@ -1,0 +1,28 @@
+ContextMenu_CN = {
+    -- by condition
+    ContextMenu_ReorderDuplicatesByCondition_ByCondition = "按耐久度重新排列",
+    ContextMenu_ReorderDuplicatesByCondition_HighToLow1 = "由高到低",
+    ContextMenu_ReorderDuplicatesByCondition_LowToHigh1 = "由低到高",
+
+    -- by remaining
+    ContextMenu_ReorderDuplicatesByCondition_ByRemaining = "按剩余量重新排列",
+    ContextMenu_ReorderDuplicatesByCondition_HighToLow2 = "由多到少",
+    ContextMenu_ReorderDuplicatesByCondition_LowToHigh2 = "由少到多",
+
+    -- by Hunger Reduction
+    -- high/low menus are same as condition
+    ContextMenu_ReorderDuplicatesByCondition_ByHungerReduction = "按饥饿减少量重新排列",
+
+    -- by Calories
+    -- high/low menus are same as condition
+    ContextMenu_ReorderDuplicatesByCondition_ByCalories = "按卡路里重新排列",
+
+    -- by bloodiness
+    ContextMenu_ReorderDuplicatesByCondition_ByBloodiness = "按染血量重新排列",
+    ContextMenu_ReorderDuplicatesByCondition_HighToLow3 = "由高到低",
+    ContextMenu_ReorderDuplicatesByCondition_LowToHigh3 = "由低到高",
+
+    -- by Dirtiness
+    -- high/low menus are same as bloodiness
+    ContextMenu_ReorderDuplicatesByCondition_ByDirtiness = "按肮脏度重新排列",
+}

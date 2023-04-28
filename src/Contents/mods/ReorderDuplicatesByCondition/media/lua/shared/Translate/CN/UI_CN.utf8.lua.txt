@@ -1,0 +1,6 @@
+UI_CN = {
+    UI_ReorderDuplicatesByCondition_CharacterSpeaks = "角色提示",
+    UI_ReorderDuplicatesByCondition_CharacterSpeaks_Tooltip = "如果对象物品已经按指定顺序排列时，你的角色会讲话提示。",
+    UI_ReorderDuplicatesByCondition_BloodinessDirtiness = "按染血量和肮脏度重新排列",
+    UI_ReorderDuplicatesByCondition_BloodinessDirtiness_Tooltip = "你可以按染血量重新排列武器和服装，也可以按肮脏度重新排列服装。",
+}
