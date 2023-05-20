@@ -94,7 +94,7 @@ local function getItemType(item)
         isDrainable = item:IsDrainable(),
         isClothing = item:IsClothing(),
         isFood = item:IsFood(),
-        isBloodClothing = item:getBloodClothingType() ~= nil,
+        isBloodClothing = item:getBloodClothingType() ~= nil and (item:IsClothing() or item:IsInventoryContainer()),
     }
 end
 
@@ -247,7 +247,9 @@ local function ReorderDuplicatesContextMenu(player, contextMenu, selectedItems)
             subContextMenu:addOption(menuTextHighToLow1, playerObj, reorder, items, ORDER_DESC, inventory, container, CONDITION)
             subContextMenu:addOption(menuTextLowToHigh1, playerObj, reorder, items, ORDER_ASC, inventory, container, CONDITION)
         end
+    end
 
+    if itemType.isWeapon or itemType.isBloodClothing then
         if ReorderDuplicatesOptions.enableClothingSubParams then
             if clone[1][BLOODINESS] ~= nil then
                 table.sort(clone, createCompare(BLOODINESS, ORDER_DESC))
