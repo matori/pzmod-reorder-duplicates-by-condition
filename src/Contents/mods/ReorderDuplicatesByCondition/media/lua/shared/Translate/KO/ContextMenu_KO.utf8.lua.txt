@@ -1,0 +1,28 @@
+ContextMenu_KO = {
+    -- by condition
+    ContextMenu_ReorderDuplicatesByCondition_ByCondition = "내구도에 따라 재정렬",
+    ContextMenu_ReorderDuplicatesByCondition_HighToLow1 = "높음에서 낮음",
+    ContextMenu_ReorderDuplicatesByCondition_LowToHigh1 = "낮음에서 높음",
+
+    -- by remaining
+    ContextMenu_ReorderDuplicatesByCondition_ByRemaining = "남아있는 양에 따라 재정렬",
+    ContextMenu_ReorderDuplicatesByCondition_HighToLow2 = "높음에서 낮음",
+    ContextMenu_ReorderDuplicatesByCondition_LowToHigh2 = "낮음에서 높음",
+
+    -- by Hunger Reduction
+    -- high/low menus are same as condition
+    ContextMenu_ReorderDuplicatesByCondition_ByHungerReduction = "배고픔 감소에 따라 재정렬",
+
+    -- by Calories
+    -- high/low menus are same as condition
+    ContextMenu_ReorderDuplicatesByCondition_ByCalories = "칼로리에 따라 재정렬",
+
+    -- by bloodiness
+    ContextMenu_ReorderDuplicatesByCondition_ByBloodiness = "피투성이에 따라 재정렬",
+    ContextMenu_ReorderDuplicatesByCondition_HighToLow3 = "높음에서 낮음",
+    ContextMenu_ReorderDuplicatesByCondition_LowToHigh3 = "낮음에서 높음",
+
+    -- by Dirtiness
+    -- high/low menus are same as bloodiness
+    ContextMenu_ReorderDuplicatesByCondition_ByDirtiness = "더러움에 따라 재정렬",
+}

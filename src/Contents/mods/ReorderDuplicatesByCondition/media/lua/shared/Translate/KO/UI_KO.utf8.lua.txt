@@ -1,0 +1,6 @@
+UI_KO = {
+    UI_ReorderDuplicatesByCondition_CharacterSpeaks = "캐릭터 대사",
+    UI_ReorderDuplicatesByCondition_CharacterSpeaks_Tooltip = "원하는 아이템이 이미 정렬되어 있으면 캐릭터가 대사를 합니다.",
+    UI_ReorderDuplicatesByCondition_BloodinessDirtiness = "더러움과 피투성이에 따라 재정렬",
+    UI_ReorderDuplicatesByCondition_BloodinessDirtiness_Tooltip = "무기와 의복은 피가 묻은 정도에 따라 재정렬할 수 있고, 의복은 더러움에 따라 재정렬할 수 있습니다.",
+}

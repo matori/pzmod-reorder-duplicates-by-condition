@@ -1,0 +1,3 @@
+IGUI_KO = {
+    IGUI_ReorderDuplicatesByCondition_AlreadyInOrder = "이미 내가 원하는 순서대로 되어있다.",
+}
