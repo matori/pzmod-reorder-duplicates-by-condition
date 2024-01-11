@@ -41,6 +41,7 @@ Perhaps up to 50 is fine in the expanded state, but if it exceeds 40, it is safe
 [*]Spanish ([url=https://steamcommunity.com/workshop/filedetails/discussion/2766834021/3191367619816832037/#c3415433928544791243]Thanks: HawK[/url])
 [*]Brazilian Portuguese ([url=https://steamcommunity.com/workshop/filedetails/discussion/2766834021/3191367619816832037/#c5300214375038992974]Thanks: Troggian[/url])
 [*]Simplified Chinese ([url=https://steamcommunity.com/workshop/filedetails/discussion/2766834021/3191367619816832037/#c3826413307972784499]Thanks: JimsBomb[/url])
+[*]Korean ([url=https://steamcommunity.com/workshop/filedetails/discussion/2766834021/3191367619816832037/#c4133807993209382716]Thanks: KimLeon[/url])
 [/list]
 
 [h1]Translations[/h1]
